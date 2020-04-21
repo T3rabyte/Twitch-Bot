@@ -3,7 +3,7 @@ Team #9
 
 Teun Bruin
 
-Ontwerp
+## Ontwerp
 
 Deze bot is een intermediair tussen de live chat en de live stream Output.
 
