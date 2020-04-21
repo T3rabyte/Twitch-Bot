@@ -57,7 +57,6 @@ def gamecontrol():
 				pyautogui.keyUp('enter')
 
 			else:
-				print("pass")
 				message = ""
 				pass
 		else:
