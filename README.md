@@ -21,7 +21,7 @@ De commando's zijn:
 
 Mijn speciale input is een live chat die de berichten daar in verwerkt.
 
-Onderzoek
+## Onderzoek
 Talen:
 
 Ik heb onderzoek gedaan naar de mogelijke talen voor het maken van de bot. Deze Talen waren:
