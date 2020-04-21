@@ -21,32 +21,32 @@ def gamecontrol():
 	global message
 	while True:
 		if message != "":
-			if "up" == message.lower():
+			if "omhoog" == message.lower():
 				pyautogui.keyDown('up')
 				message = ""
 				pyautogui.keyUp('up')
 
-			elif "down" == message.lower():
+			elif "beneden" == message.lower():
 				pyautogui.keyDown('down')
 				message = ""
 				pyautogui.keyUp('down')
 
-			elif "left" == message.lower():
+			elif "links" == message.lower():
 				pyautogui.keyDown('left')
 				message = ""
 				pyautogui.keyUp('left')
 
-			elif "right" == message.lower():
+			elif "rechts" == message.lower():
 				pyautogui.keyDown('right')
 				message = ""
 				pyautogui.keyUp('right')
 
-			elif "abut" == message.lower():
+			elif "aknop" == message.lower():
 				pyautogui.keyDown('s')
 				message = ""
 				pyautogui.keyUp('s')
 
-			elif "bbut" == message.lower():
+			elif "bknop" == message.lower():
 				pyautogui.keyDown('a')
 				message = ""
 				pyautogui.keyUp('a')
