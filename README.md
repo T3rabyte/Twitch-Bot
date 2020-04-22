@@ -71,7 +71,7 @@ D1-K1-W4:
 
 - Product: https://github.com/T3rabyte/Twitch-Bot
 - Testrapport: https://docs.google.com/document/d/1S1qOloiLn4UQvUVlZldpT3O6vzy5t-jlvQ-HJrqcZRw
-- Usertest (footage op YouTube):
+- Usertest: https://drive.google.com/file/d/1qInIYhF58I38nxEozuC7OlMdcmt4PmyE/view?usp=sharing
 
 Extra:
 
