@@ -62,7 +62,7 @@ D1-K1-W2:
 
 D1-K1-W3:
 
-- Presentatie (3):
+- Presentatie (3): https://drive.google.com/file/d/1w0jaGejb9i3E_WsBpTI_xL3gWm3B9LAo/view?ths=true
 - Source code: https://github.com/T3rabyte/Twitch-Bot
 - Class diagram: Er is maar 1 Class
 - Tussentijdse test: https://docs.google.com/document/d/1ldUIoaS65vFI-onV3JU9qqEg6QGy8pS1wwhLEAZN1JM
