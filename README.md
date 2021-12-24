@@ -35,7 +35,7 @@ ASP.net
 PHP
 Python
 
-Ik heb gekozen om verder te gaan met Python. Omdat wat wilden kon met bijna alle talen. Ik nog geen Python heb gebruikt en de taal wou leren en omdat er veel Documentatie van was te vinden.
+Ik heb gekozen om verder te gaan met Python. Voornamenlijk omdat Ik nog geen ervaring heb met Python en de taal zou willen leren.Ook was er veel Documentatie van te vinden wat mij verder kon helpen.
 
 Overige software:
 
